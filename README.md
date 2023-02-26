@@ -1,2 +1,2 @@
 # eslint-config-base
-Base eslint configurations for @opentf packages
+Base eslint configurations for @opentf packages.
